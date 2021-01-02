@@ -14,6 +14,7 @@ A good part of the graphical rendering is done
 (it's not much though, the graphics are very simple)
 
 Currently, 20 out of 35 opcodes are implemented, the rest is documented but has yet to be implemented.
+Also you can't load a ROM... So no testing right now, but it's coming quickly i swear
 
 There is no way to load a ROM for now, but it's coming soon, I will need to test the opcodes obviously.
 
